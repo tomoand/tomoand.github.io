@@ -79,6 +79,14 @@ h2 {
     margin-right: 0.5rem;
 }
 
+#about_me ul{
+    list-style-position: inside;
+}
+#about_me .positive{
+    margin-bottom: 0.5rem;
+}
+
+
 #cv li{
     list-style: none;
 }
