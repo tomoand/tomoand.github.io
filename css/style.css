@@ -23,11 +23,7 @@ img {
 }
 
 /* ヘッダー部分
----------------------------- */.header{
-    background-color: green;
-}.header{
-    background-color: green;
-}
+---------------------------- */
 .main-nav {
     display: flex;
     font-size: 1.25rem;
@@ -43,10 +39,6 @@ img {
 }
 .main-nav a:hover {
     color: #0bd; /* マウスが乗った際の色の変化 */
-}
-.page-header {
-    display: flex;
-    justify-content: flex-start;
 }
 
 /* 本文
